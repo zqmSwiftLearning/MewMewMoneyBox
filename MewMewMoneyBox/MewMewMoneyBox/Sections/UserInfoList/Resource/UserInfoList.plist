@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>UserListProfile</string>
+		<key>content</key>
+		<string>个人信息</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>UserListTask</string>
+		<key>content</key>
+		<string>我的任务</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>UserListIntegral</string>
+		<key>content</key>
+		<string>我的积分</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>UserListWallet</string>
+		<key>content</key>
+		<string>我的喵喵罐</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>UserListCoin</string>
+		<key>content</key>
+		<string>我的喵喵币</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>UserListSetting</string>
+		<key>content</key>
+		<string>安全设置</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>UserListMore</string>
+		<key>content</key>
+		<string>更多</string>
+	</dict>
+</array>
+</plist>
