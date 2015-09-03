@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>userInfoNickname</string>
+		<key>content</key>
+		<string>昵称</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoName</string>
+		<key>content</key>
+		<string>真实姓名</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoGender</string>
+		<key>content</key>
+		<string>性别</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoBirthday</string>
+		<key>content</key>
+		<string>生日</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoEmail</string>
+		<key>content</key>
+		<string>邮件</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoPhoneNumber</string>
+		<key>content</key>
+		<string>手机号码</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoSchool</string>
+		<key>content</key>
+		<string>毕业学校</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoMajor</string>
+		<key>content</key>
+		<string>所学专业</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoHobby</string>
+		<key>content</key>
+		<string>爱好</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userInfoPay</string>
+		<key>content</key>
+		<string>支付宝账号</string>
+	</dict>
+</array>
+</plist>
