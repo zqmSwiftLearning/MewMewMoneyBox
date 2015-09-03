@@ -16,6 +16,24 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        
+        self.window = UIWindow(frame: kMainScreenBounds)
+        self.window?.makeKeyAndVisible()
+        
+        self.window?.rootViewController = BaseTabBarController()
+        
+        let isLogin = kUserDefaults.objectForKey("USER_IS_LOGIN")?.boolValue
+        if (isLogin != nil) && (isLogin == true)
+        {
+            //登录了
+        }
+        else
+        {
+            //未登录
+//            let loginVC = UIStoryboard(name: "Login", bundle: nil).instantiateInitialViewController() as! LoginViewController
+//            self.window?.rootViewController?.presentViewController(loginVC, animated: false, completion: nil)
+        }
+        
         return true
     }
 
